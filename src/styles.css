@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+button {
+  list-style: none;
+  display: inline;
+  margin: 15px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 20px;
+  color: red;
+  cursor: pointer;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.movie {
+  height: 100px;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.movieProfile {
+  text-align: center;
+}
