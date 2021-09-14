@@ -1,2 +1,2 @@
 # Movie-Suggestion
-Created with CodeSandbox
+A React App which gives out a list of movies based on selected Genre
